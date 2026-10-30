@@ -6,7 +6,9 @@
 
 ## Context
 **Who asks:** the Customer Experience team at a US fintech.
+
 **Question:** Which financial products get the most complaints, and which issues cause them?
+
 **Decision:** what to fix first to bring complaints down.
 
 ## Summary
