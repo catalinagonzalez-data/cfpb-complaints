@@ -2,6 +2,8 @@
 
 ![Dashboard](dashboard.png)
 
+🎥 [Video walkthrough](https://youtu.be/Dj91yN9ftkc)
+
 ## Context
 **Who asks:** the Customer Experience team at a US fintech.
 **Question:** Which financial products get the most complaints, and which issues cause them?
